@@ -17,7 +17,7 @@
 
 单体式权限管理系统，使用SpringBoot + MyBatis构建，开发基本完成。
 
-接口说明及测试(基于swagger): http://121.43.135.121:9000/swagger-ui.html
+项目已部署（仅后端），接口说明及测试(基于swagger): http://121.43.135.121:9000/swagger-ui.html
 
 ## ams-distributed
 
